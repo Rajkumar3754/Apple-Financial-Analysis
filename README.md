@@ -1,3 +1,6 @@
+                                                                           Apple Financial Analyis-[2009-2024]
+
+
 This project demonstrates how to leverage financial data analysis and visualization techniques using tools like Pandas, Matplotlib, and Seaborn to analyze and present the financial health and performance of Apple Inc. from 2009 to 2024. Through various visualizations, we are able to provide key insights into Apple's revenue generation, stock performance, profitability, and other critical financial metrics, which are essential for investors, analysts, and business strategists.
 
 
