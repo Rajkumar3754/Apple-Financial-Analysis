@@ -1,4 +1,5 @@
- Financial Analysis of Apple Inc. (2009-2024) 📊
+
+                                  Financial Analysis of Apple Inc. (2009-2024) 📊
 
 
 Core Objectives 📌
