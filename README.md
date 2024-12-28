@@ -1,6 +1,6 @@
-===============================================
+
 Financial Analysis of Apple Inc. (2009-2024) 📊
-===============================================
+
 
 Core Objectives 📌
 1. Data Cleaning and Preprocessing 🧹:
