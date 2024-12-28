@@ -53,3 +53,16 @@ This financial analysis can be applied in various domains:
 - **Jupyter Notebooks 📓** (for analysis and visualization)
 - **Financial Data 💵:** Includes Apple’s stock and revenue reports collected from trusted financial sources.
 
+## Getting Started
+
+### Prerequisites
+Make sure you have the following:
+- Python 3.x installed
+- Jupyter Notebook for running the analysis
+- Required Python libraries listed in `requirements.txt`
+
+### Installation Steps
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/apple-financial-analysis.git
