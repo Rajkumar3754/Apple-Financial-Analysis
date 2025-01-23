@@ -47,6 +47,7 @@ This financial analysis can be applied in various domains:
 
 - **Python 🐍**
 - **Libraries:**
+  - numpy 📊 (for handling numerical operations)
   - Pandas 📊 (for data manipulation)
   - Matplotlib 📈 (for data visualization)
   - Seaborn 🎨 (for advanced data visualizations)
